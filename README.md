@@ -18,7 +18,7 @@ El proyecto fue desarrollado con fines educativos para comprender el ecosistema 
 
 ## 🛠️ Tecnologías utilizadas
 
-- **Java 17**
+- **Java 17** * (o superior)
 - **Spring Boot 3.2.x**
 - **Spring Web** (controladores REST)
 - **Spring Data JPA** (persistencia)
