@@ -1,4 +1,4 @@
-# ForoHub API - Primera Versión
+# ForoHub API - Challenge
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.4-brightgreen)
 ![Java](https://img.shields.io/badge/Java-17-blue)
